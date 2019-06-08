@@ -1,22 +1,27 @@
 import React from 'react';
-import {StyleSheet, Button, Text, View} from "react-native";
+import {StyleSheet, Button, View} from "react-native";
 import {alignCenter, whiteColor} from "styles/theme";
+import { withNavigation } from 'react-navigation';
+
 
 let colors = ['green', 'blue', 'yellow', 'purple', 'black'];
 
 const GridItems = ({ list, navigation }) => list.map((data, index) => {
     let colorIndex =  index % colors.length;
+    const handlePress = () => {
+        navigation.navigate('SectionScreen',  { sectionTitle: data.title })
+    };
     return (<View key={index} style={styles.navigationItem}>
         <View  style={[styles.navigationItemContainer, { backgroundColor : colors[colorIndex] }]}>
             <Button
                 title={data.title}
-                onPress={() => navigation.navigate('Friends')
-            }/>
+                onPress={handlePress}
+            />
         </View>
     </View>);
 });
 
-export default GridItems;
+export default withNavigation(GridItems);
 
 const styles = StyleSheet.create({
     navigationItem : {

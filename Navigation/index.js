@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 // import { Dimensions } from 'react-native';
-import homeStackNavigator from 'scenes/Navigation/homeStackNavigator';
+import homeStackNavigator from 'navigation/homeStackNavigator';
 // console.log('homeStackNavigator', homeStackNavigator);
 import SideBar from "components/SideBar";
 import {
@@ -12,7 +12,7 @@ import {
 
 const navigationDrawerRouter = createDrawerNavigator(
     {
-        Home: { screen: homeStackNavigator },
+        Home:  homeStackNavigator,
     },
     {
         // drawerWidth: DEVICE_WIDTH - 100,
