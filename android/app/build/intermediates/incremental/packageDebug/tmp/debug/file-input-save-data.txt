@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Jun 08 10:48:40 CST 2019
+#Sat Jun 08 12:00:39 CST 2019
 56.path=fonts/Roboto.ttf
 5.base=/Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/build/intermediates/merged_assets/debug/out

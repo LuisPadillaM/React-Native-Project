@@ -1,20 +1,32 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-fbsdk] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:1-30:12
 MERGED from [:react-native-gesture-handler] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:@react-native-community_async-storage] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.59.9] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/52e9e7823174d43d2bb1e9cfcd607afc/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/63c39f298f098fceb295d810b0f06ea0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/541434b829665d762c68d945bd5cb0be/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/62a7c98a5491f8fe30ef112d726901ee/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:21:1-37:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/311430f75f648e3fb1bbd059d4692a79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7e85cc835605f8641f63f156476478e8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/594c50f6ed44466e1cf2a485dd6b27a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7d98ba9054cf06e14ca5ef32b4805fe2/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/92d54b1d825e1b36877e0535a11d2f6a/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7ed332b4dc69d0356a9f364fc164dc17/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:21:1-53:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/9870af048aae3e04ddf8268855c934a9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/c61c74cc2f561fcc45c149e54c2831f0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/820318ee73c70a9eb16490149182b5d8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/0d4e6711d9b12d797957bd31b1dd3ea0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/0cf886a18dd363f6729722a0fe63bd22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/b2129418aaea72de0a527d0629fea761/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/59c5ddf8d687acf356b416418fc60580/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/15c5538034f0b8fb5cb11c4553e78863/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:drawerlayout:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/242a21397d324c99c63cc3ab324bceee/AndroidManifest.xml:17:1-22:12
@@ -22,6 +34,7 @@ MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/luispadilla/.g
 MERGED from [com.android.support:customview:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1d017e55aa89171dab771b331beb88c5/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/8e5f6d7c5b5fde4fcfd4aea85f56f925/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2a692321bbcbc9f6ff9d91713f0d5c96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/88bc231ede2b6c95e7dd3f9e089be484/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f24b1bd88c69449da03034755406ad91/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/a80696d7b8636dc942ccae4c4e856df3/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/d5a653ed27e7227e65eb746a8743c521/AndroidManifest.xml:17:1-22:12
@@ -30,6 +43,7 @@ MERGED from [com.android.support:documentfile:28.0.0] /Users/luispadilla/.gradle
 MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/c742a001a2e5d03ee6bb3350322f055b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:print:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/6d21992b23454816f5da6a4a60bbcd4f/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f0af8514f16c3f28db960b3dac0a84fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/83985babb9d1bf89baeefe8cb1a7a5ea/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/55961653081dfcac2cecba1d160fab64/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/50fc98598ed1870697b10227546310f0/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/cd154e0fdb1bbf06a8b911b65e0250b2/AndroidManifest.xml:17:1-22:12
@@ -51,13 +65,13 @@ INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/
 		INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-28:12
 		INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:1-28:12
 		INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -66,11 +80,31 @@ ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app
 	android:name
 		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:6:5-24:19
+ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [:react-native-fbsdk] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:5-20
 MERGED from [com.facebook.react:react-native:0.59.9] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/52e9e7823174d43d2bb1e9cfcd607afc/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.59.9] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/52e9e7823174d43d2bb1e9cfcd607afc/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/63c39f298f098fceb295d810b0f06ea0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/63c39f298f098fceb295d810b0f06ea0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/541434b829665d762c68d945bd5cb0be/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/541434b829665d762c68d945bd5cb0be/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/62a7c98a5491f8fe30ef112d726901ee/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/62a7c98a5491f8fe30ef112d726901ee/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7d98ba9054cf06e14ca5ef32b4805fe2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7d98ba9054cf06e14ca5ef32b4805fe2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/92d54b1d825e1b36877e0535a11d2f6a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/92d54b1d825e1b36877e0535a11d2f6a/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7ed332b4dc69d0356a9f364fc164dc17/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7ed332b4dc69d0356a9f364fc164dc17/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:28:5-51:19
 MERGED from [com.android.support:support-compat:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f24b1bd88c69449da03034755406ad91/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f24b1bd88c69449da03034755406ad91/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/a80696d7b8636dc942ccae4c4e856df3/AndroidManifest.xml:22:5-23:19
@@ -79,6 +113,8 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/luispadilla/.gradle/ca
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/a2c28aa0f154a6f04f32d4a39b520b8b/AndroidManifest.xml:11:5-20
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f24b1bd88c69449da03034755406ad91/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/63c39f298f098fceb295d810b0f06ea0/AndroidManifest.xml:28:18-44
 	android:label
 		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:8:7-39
 		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:8:7-39
@@ -103,44 +139,72 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/luispadilla/.gradle/ca
 	android:name
 		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:7:7-38
 		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:7:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:13:9-14:54
+	android:value
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:14:13-52
+	android:name
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:13:20-65
 activity#com.classone.MainActivity
-ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:15:7-24:18
 	android:label
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:19:9-51
 	android:configChanges
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:18:9-79
 	android:name
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:16:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:20:9-23:25
 action#android.intent.action.MAIN
-ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:21:13-65
 	android:name
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:21:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:22:13-73
 	android:name
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:22:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:25:7-84
 	android:name
-		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml:25:17-81
 uses-sdk
 INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-fbsdk] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/react-native-fbsdk/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:41
 MERGED from [:react-native-gesture-handler] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:@react-native-community_async-storage] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:@react-native-community_async-storage] /Users/luispadilla/Documents/Cursos/React Native/ClassOne/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.59.9] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/52e9e7823174d43d2bb1e9cfcd607afc/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.9] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/52e9e7823174d43d2bb1e9cfcd607afc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/63c39f298f098fceb295d810b0f06ea0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/63c39f298f098fceb295d810b0f06ea0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/541434b829665d762c68d945bd5cb0be/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/541434b829665d762c68d945bd5cb0be/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/62a7c98a5491f8fe30ef112d726901ee/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/62a7c98a5491f8fe30ef112d726901ee/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/311430f75f648e3fb1bbd059d4692a79/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/311430f75f648e3fb1bbd059d4692a79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7e85cc835605f8641f63f156476478e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7e85cc835605f8641f63f156476478e8/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/594c50f6ed44466e1cf2a485dd6b27a7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/594c50f6ed44466e1cf2a485dd6b27a7/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7d98ba9054cf06e14ca5ef32b4805fe2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7d98ba9054cf06e14ca5ef32b4805fe2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/92d54b1d825e1b36877e0535a11d2f6a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/92d54b1d825e1b36877e0535a11d2f6a/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7ed332b4dc69d0356a9f364fc164dc17/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/7ed332b4dc69d0356a9f364fc164dc17/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/9870af048aae3e04ddf8268855c934a9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/9870af048aae3e04ddf8268855c934a9/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/c61c74cc2f561fcc45c149e54c2831f0/AndroidManifest.xml:20:5-44
@@ -151,6 +215,8 @@ MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/luispadi
 MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/0d4e6711d9b12d797957bd31b1dd3ea0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/0cf886a18dd363f6729722a0fe63bd22/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/0cf886a18dd363f6729722a0fe63bd22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/b2129418aaea72de0a527d0629fea761/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/b2129418aaea72de0a527d0629fea761/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/59c5ddf8d687acf356b416418fc60580/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/59c5ddf8d687acf356b416418fc60580/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/15c5538034f0b8fb5cb11c4553e78863/AndroidManifest.xml:20:5-44
@@ -165,6 +231,8 @@ MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/luispadilla/.
 MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/8e5f6d7c5b5fde4fcfd4aea85f56f925/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2a692321bbcbc9f6ff9d91713f0d5c96/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2a692321bbcbc9f6ff9d91713f0d5c96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/88bc231ede2b6c95e7dd3f9e089be484/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/88bc231ede2b6c95e7dd3f9e089be484/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f24b1bd88c69449da03034755406ad91/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f24b1bd88c69449da03034755406ad91/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/a80696d7b8636dc942ccae4c4e856df3/AndroidManifest.xml:20:5-44
@@ -181,6 +249,8 @@ MERGED from [com.android.support:print:28.0.0] /Users/luispadilla/.gradle/caches
 MERGED from [com.android.support:print:28.0.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/6d21992b23454816f5da6a4a60bbcd4f/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f0af8514f16c3f28db960b3dac0a84fb/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/f0af8514f16c3f28db960b3dac0a84fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/83985babb9d1bf89baeefe8cb1a7a5ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/83985babb9d1bf89baeefe8cb1a7a5ea/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/55961653081dfcac2cecba1d160fab64/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/55961653081dfcac2cecba1d160fab64/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/50fc98598ed1870697b10227546310f0/AndroidManifest.xml:20:5-44
@@ -215,3 +285,47 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /Users/luispadilla/Documents/Cursos/React Native/ClassOne/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/1be5e215d30b6be898f6042cf600b73b/AndroidManifest.xml:34:19-64
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/85512e1fc6c8362c90afade8ddb36536/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/luispadilla/.gradle/caches/transforms-2/files-2.1/2e73bf70dd8d4fe675e6333ba3b530e1/AndroidManifest.xml:48:25-92
